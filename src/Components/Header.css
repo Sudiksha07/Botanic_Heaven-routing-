@@ -1,0 +1,51 @@
+.navbar{
+   
+    background-color: rgb(197, 227, 227) !important;
+}
+.colorhu{
+    background-color:rgb(197, 227, 227);
+    /* margin-bottom: 0; */
+}
+.nav-item{
+    margin: 0px 95px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(204, 236, 236)!important
+
+    
+ }
+.nav-item a:hover{
+color: palevioletred ;
+
+   
+}
+.navbar-brand{
+    font-size: 30px;
+    margin-right: 95px;
+    margin-left: 15px;
+}
+.nav-item a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+
+} 
+
+  
+ 
+  #buttonhu{
+    background-color: green;
+    color:white;
+    margin-right: 25px;
+    margin-left: 10px;
+  }
+  .image-container:hover .button-overlay {
+    visibility: visible;
+    opacity: 1;
+  }
+#imagehu{
+    margin-right: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+}

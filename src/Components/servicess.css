@@ -1,0 +1,19 @@
+.home2 h3{
+    font-size: 25px;
+    font-weight: 400;
+}
+.home2 h1{
+    font-size: 50px;
+}
+.card1{
+    font-size: 17px;
+    border-radius: 10px;
+    border-top: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+    border-bottom: 4px solid darkgreen;
+    font-family: Canela, sans-serif;
+}
+.home2{
+    font-family: Canela, sans-serif;
+}

@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+  }
+input{
+    margin: 15px 20px;
+}
+button{
+    margin: 15px 20px;
+}

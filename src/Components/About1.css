@@ -1,0 +1,11 @@
+.home1 h3{
+    font-size: 35px;
+    font-weight: 400;
+}
+.home1 h1{
+    font-size: 60px;
+}
+.home1{
+    background-color: darkgreen;
+    color:white;
+}

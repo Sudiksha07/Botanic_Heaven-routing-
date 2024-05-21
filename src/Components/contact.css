@@ -1,0 +1,47 @@
+.box{
+    background-color: #194b2d;
+    color:white;
+    font-family: "Canela";
+    height: 100vh;
+}
+.btn1{
+    background-color: #194b2d;
+    border:1px solid white
+}
+.btn1 a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
+.btn1:hover{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    background-color:white;
+   opacity: 0.8;
+}
+.btn1 a:hover{
+    
+    color:black;
+}
+.list h1{
+    color:white
+ } 
+ .list1{
+    list-style: none;
+ }
+ .heading{
+    color:white
+ }
+.list{
+    text-decoration: none;
+    list-style: none;
+    color: grey;
+    font-size: 18px;
+}
+@media (max-width: 767px) {
+    .box{
+      height: 100%;
+    }
+  }
+  

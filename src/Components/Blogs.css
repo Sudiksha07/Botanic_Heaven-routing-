@@ -1,0 +1,26 @@
+.property{
+    display: flex;
+    color: darkgreen;
+}
+.property h1{
+font-size: 85px;
+}
+.property img{
+    margin-top: 35px;
+    margin-left: 15px;
+    height: 50px;
+}
+.inv{
+    color: aquamarine;
+    height: 70px;
+}
+.rating{
+    font-size: 35px;
+}
+.review-container{
+    border-bottom: 2px solid lightgray;
+}
+.rating1  {
+    color: rgb(175, 175, 18);
+    font-size: 45px;
+}
